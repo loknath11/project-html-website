@@ -4,7 +4,7 @@
 | -------- | --------|--------|
 | HTML |  Azure Web App, Virtual Machine| |
 
-# Sample HTML website 
+# Sample HTML website for Test
 
 Sample HTML/CSS web app that you can deploy to Azure. 
 
